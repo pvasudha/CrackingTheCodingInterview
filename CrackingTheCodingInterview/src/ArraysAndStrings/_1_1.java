@@ -6,7 +6,7 @@ package ArraysAndStrings;
 public class _1_1 {
     public static void main(String args[]) {
         //TEST CASES
-        String a = "abcddefg";
+        String a = "abcdefg";
         System.out.println(a.charAt(2));
         System.out.println(a.substring(2, 3));
 

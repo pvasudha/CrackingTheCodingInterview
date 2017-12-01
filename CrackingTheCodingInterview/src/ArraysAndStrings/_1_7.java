@@ -4,7 +4,8 @@ package ArraysAndStrings;
  * Created by Pranav on 11/4/2017.
  */
 public class _1_7 {
-    //INCORRECT SOLUTION LOL
+    //CHECK SOLUTION
+    //CHECK SOLUTION
     static void rotateMatrix( int[][] arr ) { //in-place solution (has to be nxn)
         for( int i = 0; i < arr.length / 2; i++ ) {
             for( int j = 0; j < arr.length; j++ ) {
